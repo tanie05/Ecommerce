@@ -1,3 +1,5 @@
+
+
 const sliderItems = [
     {
       id: 1,
